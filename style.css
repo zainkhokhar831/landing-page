@@ -1,0 +1,152 @@
+body {
+    font-family: 'Raleway', ;
+    background-image: url(banner-bg.png); 
+    background-repeat: no-repeat;
+    margin-top: 50px ;
+    background-size: 100%;
+}
+
+.text-5xl{
+    margin-top: 4%;
+    font-size: 300%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.custom-header {
+    margin-top: 2.2rem !important;
+    border-radius: 10rem;
+    padding: 8px;
+    
+}
+.gap-20px {
+    gap: 5px;
+}
+
+.custom-padding{
+    padding-left: 14.1rem !important;
+    padding-right: 9.2rem !important;
+}
+
+.features-small-item{
+    border-radius: 20px;
+}
+
+.icon{
+        
+    border-radius:30px;
+    padding: 30px;
+    margin-top: 10px; 
+    
+ 
+}
+
+.w-16{
+    background: rgb(125, 92, 242);
+    padding: 20px;
+    border-radius: 50%;
+    width: 20%;
+}
+
+.banner1{
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+  
+}
+
+.banner2{
+
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 70px;
+}
+
+#work-process1{
+    background-image: url(/work-process-bg.png);
+    margin-top: 100px;
+    background-size: 120%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    font-size: 70%;
+    
+}
+
+
+.font-semibold{
+    color: rgb(51, 50, 50);
+}
+
+.text-pg{
+
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 140%;
+}
+
+.w-19 {
+     padding: 15px;
+     border-radius: 90px;
+
+}
+
+ #testimonials{
+padding:100px;
+
+} 
+
+#Stats{
+
+    background-image: url(fun-facts-bg.png);
+    padding: 150px;
+    background-position-x: right;
+}
+
+.row{
+    margin-left: 12%;
+    margin-right: 12%;
+}
+.w-17{
+   padding: 12%;
+   /* margin-bottom: 10%; */
+}
+.rounded-lg
+{
+    border-radius: 20%;
+}
+.mt-6{
+    background-color: rgb(101, 69, 200);
+    border-radius: 10%;
+    padding: 5%;
+}
+#image-number{
+    background-image: url(fun-facts-bg.png);
+    width: 100%;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-size: 120%;
+    background-position-y: 20% ;
+}
+
+.mt-2{
+    background-color: rgb(231, 110, 180);
+    border-radius: 10%;
+    padding: 7%;
+}
+#gap-number{
+    gap: 11%;
+}
+.circule-pic{
+   margin-left: 240%;
+}
+.circule-pic2{
+    margin-left: 190%;
+ }
+ .circule-pic3{
+    margin-left: 200%;
+ }
+
+ 
